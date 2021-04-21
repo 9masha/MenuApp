@@ -1,0 +1,50 @@
+[
+  {
+    "name" : "Salat",
+    "price" : {
+      "amount" : 15.00,
+      "currency" : "MDL"
+    },
+    "available" : 5
+  },
+   {
+    "name" : "Soup",
+    "price" : {
+      "amount" : 25.00,
+      "currency" : "MDL"
+    },
+    "available" : 4
+  },
+   {
+    "name" : "Pizza",
+    "price" : {
+      "amount" : 80.00,
+      "currency" : "MDL"
+    },
+    "available" : 10
+  },
+  {
+    "name" : "Spaghetti",
+    "price" : {
+      "amount" : 35.00,
+      "currency" : "MDL"
+    },
+    "available" : 5
+  },
+  {
+    "name" : "French fries",
+    "price" : {
+      "amount" : 25.00,
+      "currency" : "MDL"
+    },
+    "available" : 10
+  },
+  {
+    "name" : "Bread",
+    "price" : {
+      "amount" : 2.50,
+      "currency" : "MDL"
+    },
+    "available" : 50
+  }
+]

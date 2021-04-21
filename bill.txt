@@ -1,0 +1,4 @@
+items:[{'name': 'Soup', 'quantity': 4, 'price': {'amount': 25.0, 'currency': 'MDL'}}]
+total:{'amount': 125.0, 'currency': 'MDL'}
+client:{'client_name': 'John Doe', 'address': 'USA, LA, 56 Wallstreet, 7 ap.', 'phone number': '8945321645'}
+delivery:{'amount': 100, 'currency': 'MDL'}
